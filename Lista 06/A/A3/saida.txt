@@ -1,0 +1,5 @@
+minimo: 0
+soma: 0
+maximo: 0
+quatidade de gatos: 9
+media: 0
