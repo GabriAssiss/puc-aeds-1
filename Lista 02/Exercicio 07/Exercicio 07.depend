@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711079444 source:c:\users\eduar\desktop\pasta aed facul\exercicio 07\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
