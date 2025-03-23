@@ -1,0 +1,4 @@
+FU:1;Gabriel Assis de Souza;33454356365;auxiliar de limpeza;23434.00;
+FU:2;Emanuel Mais Voce;3242343325345;garcom;2222;
+FU:3;Jonas Fagundes;3423443424;garcom;1223;
+FU:4;Josimar Antunes;234324344;gerente;2000;

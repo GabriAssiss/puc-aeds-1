@@ -1,0 +1,3 @@
+CL:1;Gabriel Assis de Souza;Rua tananan;43234324324;
+CL:2;Lucas Silva;Cleiton rua 13;23443324;
+CL:3;Kid;ALgo pra ocupar espaco;235345435435;

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1719365719 source:c:\users\eduar\onedrive\Área de trabalho\pasta aed facul\trabalho prático aeds\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"tudo.h"
+
+1719365684 c:\users\eduar\onedrive\Área de trabalho\pasta aed facul\trabalho prático aeds\tudo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
